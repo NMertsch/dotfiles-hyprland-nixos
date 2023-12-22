@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun";
+    show-icons: true;
+    display-drun: "";
+}
+
+@theme "themes/rounded-nord-dark.rasi"
